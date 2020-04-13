@@ -1,0 +1,13 @@
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\bin\Debug\netcoreapp3.1\pdf_csv_app.exe
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\bin\Debug\netcoreapp3.1\pdf_csv_app.deps.json
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\bin\Debug\netcoreapp3.1\pdf_csv_app.runtimeconfig.json
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\bin\Debug\netcoreapp3.1\pdf_csv_app.runtimeconfig.dev.json
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\bin\Debug\netcoreapp3.1\pdf_csv_app.dll
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\bin\Debug\netcoreapp3.1\pdf_csv_app.pdb
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\obj\Debug\netcoreapp3.1\pdf_csv_app.csprojAssemblyReference.cache
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\obj\Debug\netcoreapp3.1\pdf_csv_app.csproj.CoreCompileInputs.cache
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\obj\Debug\netcoreapp3.1\pdf_csv_app.AssemblyInfoInputs.cache
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\obj\Debug\netcoreapp3.1\pdf_csv_app.AssemblyInfo.cs
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\obj\Debug\netcoreapp3.1\pdf_csv_app.dll
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\obj\Debug\netcoreapp3.1\pdf_csv_app.pdb
+C:\Users\JSBru\OneDrive\Desktop\pdf_csv_app\obj\Debug\netcoreapp3.1\pdf_csv_app.genruntimeconfig.cache
